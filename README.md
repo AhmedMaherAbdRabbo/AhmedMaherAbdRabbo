@@ -30,7 +30,8 @@
 
 - :school: I am a `student` at [Faculty of Computers & Information technology](https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology) at [Egyptian E-Learning University EELU Sohag ](https://www.eelu.edu.eg/).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
+- ⏳ Learning ML and DL .
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - 😎 Always `learning new things`.
   
