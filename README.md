@@ -35,7 +35,12 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - 😎 Always `learning new things`.
   
-  <br>
+  <br>  <br>   <br>
+  
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"></picture> My Skills : Languages and Tools
+
+<div align="center">
+
 
 <div align="center">
 
