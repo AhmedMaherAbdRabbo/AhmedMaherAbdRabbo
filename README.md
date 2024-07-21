@@ -94,3 +94,7 @@
 <a href="https://instagram.com/_a7med.maher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a7med.maher" height="30" width="40" /></a>
 </p>
 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedMaherAbdRabbo)](https://github.com/anuraghazra/github-readme-stats)
