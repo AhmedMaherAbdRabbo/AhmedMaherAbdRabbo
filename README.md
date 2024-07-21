@@ -107,11 +107,6 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMaherAbdRabbo&theme=apprentice)
-<br><br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedMaherAbdRabbo&theme=apprentice)
-
-<br><br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedMaherAbdRabbo&theme=apprentice)
-
-<br><br>
 
