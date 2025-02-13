@@ -12,13 +12,30 @@
 </p>
 
 
+
+
+
+
+
+
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<hr>
+<br>
+
+
+
+
+
+
+
 <br>
   
 <p align="center"> 
 
 <img src="https://komarev.com/ghpvc/?username=ahmedmaherabdrabbo&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmaherabdrabbo" height=24px, width=150px /> 
 
-<img src="https://img.shields.io/github/followers/mohamedkhalifaabbas?label=Followers&style=social" alt="mohamedkhalifaabbasfollowers"  height=24px, width=150px />
+<img src="https://img.shields.io/github/followers/ahmedmaherabdrabbo?label=Followers&style=social" alt="ahmedmaherabdrabbofollowers"  height=24px, width=150px />
 
 </p>
 
@@ -26,7 +43,7 @@
 
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF"  width ="350px" height="250">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width ="450px" height="300">
 
 - :school: I am a `student` at [Faculty of Computers & Information technology](https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology) at [Egyptian E-Learning University EELU Sohag ](https://www.eelu.edu.eg/).
 - :technologist: I love using Software as a solution for every `Problem`.
