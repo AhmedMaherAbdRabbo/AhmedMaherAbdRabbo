@@ -35,7 +35,7 @@
 
 <br><br>
 
-🏫 **I am a student** at the [Faculty of Computers and Information Technology](https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology) at [Egyptian E-Learning University (EELU), Sohag](https://www.eelu.edu.eg/).  
+🏫 **I am a student** at the [Faculty of Computers and Information Technology](https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology) at [Egyptian E-Learning University (EELU)](https://www.eelu.edu.eg/).  
 📚 Specializing in **Artificial Intelligence**, **Machine Learning**, and **Data Science**  
 🤖 Enthusiastic about **Deep Learning, Natural Language Processing (NLP), and Computer Vision**  
 💡 Constantly learning and exploring the latest advancements in AI and its applications  
